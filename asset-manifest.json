@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.js": "/reactsql/static/js/main.5f508b5a.chunk.js",
+    "main.js.map": "/reactsql/static/js/main.5f508b5a.chunk.js.map",
+    "runtime-main.js": "/reactsql/static/js/runtime-main.be61b86f.js",
+    "runtime-main.js.map": "/reactsql/static/js/runtime-main.be61b86f.js.map",
+    "static/js/2.a00e5683.chunk.js": "/reactsql/static/js/2.a00e5683.chunk.js",
+    "static/js/2.a00e5683.chunk.js.map": "/reactsql/static/js/2.a00e5683.chunk.js.map",
+    "index.html": "/reactsql/index.html",
+    "precache-manifest.0b0a2eca717ec2c7e11ce3a5b22a5ff9.js": "/reactsql/precache-manifest.0b0a2eca717ec2c7e11ce3a5b22a5ff9.js",
+    "service-worker.js": "/reactsql/service-worker.js"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.be61b86f.js",
+    "static/js/2.a00e5683.chunk.js",
+    "static/js/main.5f508b5a.chunk.js"
+  ]
+}
