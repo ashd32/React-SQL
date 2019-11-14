@@ -5,17 +5,14 @@
   "license": "MIT",
   "scripts": {
     "start": "parcel example/index.html --open --no-hmr",
-    "fmt": "prettier --write '{src,example}/**/*.js'",
-    "build": "react-scripts build",
-    "predeploy": "yarn build",
-    "deploy": "gh-pages -d build"
+    "fmt": "prettier --write '{src,example}/**/*.js'"
   },
-  "homepage": "http://ashd32.github.io/reactsql",
   "dependencies": {
     "alasql": "^0.4.5",
-    "dist": "^0.1.2",
+    "fsevents": "^2.1.2",
     "prop-types": "^15.6.1",
-    "react": "^16.4.0"
+    "react": "^16.4.0",
+    "react-scripts": "^3.2.0"
   },
   "devDependencies": {
     "@reach/router": "^1.0.11",
