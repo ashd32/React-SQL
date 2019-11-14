@@ -1,0 +1,95 @@
+body {
+  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  margin: 0;
+}
+
+nav {
+  background-color: #eee;
+  padding: 20px 0;
+}
+
+main {
+  padding-top: 3rem;
+}
+
+form {
+  width: 100%;
+}
+
+input[type="text"] {
+  display: block;
+  width: 100%;
+  padding: 13px;
+  font-size: 16px;
+  box-sizing: border-box;
+  margin-bottom: 10px;
+}
+
+a + a,
+button + button {
+  margin-left: 20px;
+}
+
+button {
+  border: none;
+  color: white;
+  background-color: #607d8b;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  cursor: pointer;
+}
+
+button.positive {
+  background-color: #007bff;
+}
+
+button.negative {
+  background-color: #dc3545;
+}
+
+.container {
+  width: 80%;
+  margin: 0 auto;
+}
+
+.Counter {
+  padding: 5rem;
+  text-align: center;
+}
+
+.TodoList ul {
+  list-style-type: none;
+  padding-left: 0;
+}
+
+.TodoList li {
+  padding: 15px;
+  border: 1px solid #ddd;
+  margin-bottom: 5px;
+}
+
+.TodoList li input[type="checkbox"] {
+  margin-right: 15px;
+}
+
+.TodoList li a {
+  float: right;
+}
+
+.Blog ul {
+  list-style-type: none;
+  padding-left: 0;
+}
+
+.Blog li {
+  padding-bottom: 20px;
+  margin-bottom: 20px;
+  border-bottom: 1px solid #eee;
+}
+
+.Blog h4 {
+  margin: 0;
+}
